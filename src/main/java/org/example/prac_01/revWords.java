@@ -7,9 +7,10 @@ public class revWords {
     }
     public static String reverseWords(String str){
         String[] word = str.split(" ");
+        StringBuilder sb = new StringBuilder();
         for(int i = word.length-1;i>=0;i--){
-            System.out.print(word[i]+" ");
+            sb.append(word[i]).append(" ");
         }
-        return "";
+        return sb.toString().trim();
     }
 }
