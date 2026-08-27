@@ -1,6 +1,8 @@
 package org.example.DSA;
 
-import java.util.List;
+
+// Move all 0s to the end of the array, while maintaining the relative
+// order of non-zero elements.
 
 public class MoveZeroes {
     public static void main(String[] args) {

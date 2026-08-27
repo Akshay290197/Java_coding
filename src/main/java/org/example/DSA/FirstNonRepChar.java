@@ -3,6 +3,8 @@ package org.example.DSA;
 import java.util.HashMap;
 import java.util.Map;
 
+//Find the first character that does not repeat.
+
 public class FirstNonRepChar {
     public static void main(String[] args) {
         String str = "swiss";
