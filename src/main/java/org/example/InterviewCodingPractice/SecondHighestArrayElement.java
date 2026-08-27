@@ -1,4 +1,4 @@
-package org.example.prac_01;
+package org.example.InterviewCodingPractice;
 
 public class SecondHighestArrayElement {
     public static void main(String[] args) {

@@ -1,6 +1,5 @@
-package org.example.prac_01;
+package org.example.InterviewCodingPractice;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package org.example.prac_01;
+package org.example.InterviewCodingPractice;
 
 import java.util.HashSet;
 import java.util.Set;
