@@ -15,7 +15,6 @@ public class ContainsDuplicate {
                 System.out.println(true);
                 return;
             }
-            set.add(nums[i]);
         }
         System.out.println(false);
     }
