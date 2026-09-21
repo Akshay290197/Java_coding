@@ -1,10 +1,8 @@
 package org.example.java_08_practice;
 
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 /*
 Square of Each Number (Basic)
