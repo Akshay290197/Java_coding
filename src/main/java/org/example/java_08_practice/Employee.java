@@ -16,7 +16,16 @@ public class Employee {
     public double getSalary(){
         return salary;
     }
-    private String getDepartment(){
+    public String getDepartment(){
         return department;
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "name='" + name + '\'' +
+                ", salary=" + salary +
+                ", department='" + department + '\'' +
+                '}';
     }
 }
