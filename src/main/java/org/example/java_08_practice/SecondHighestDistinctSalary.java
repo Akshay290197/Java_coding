@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
+
+/*
+* Second-Highest Salary
+* Using Java 8 Stream API, find the second-highest distinct salary.
+* */
 public class SecondHighestDistinctSalary {
     public static void main(String[] args) {
         List<Employee> employees = Arrays.asList(

@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
+
+/*
+* Find the Top 3 Highest-Paid Employees (Intermediate–Advanced)
+* Use Java 8 Stream API to find the top 3 highest-paid employees and print their names in descending order of salary.
+* */
 public class Top3HighestSalary {
     public static void main(String[] args) {
         List<Employee> employees = Arrays.asList(
