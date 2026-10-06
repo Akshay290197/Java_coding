@@ -5,7 +5,7 @@ import java.util.List;
 
 public class ReverseList {
     public static void main(String[] args) {
-        List<Integer> list = Arrays.asList(10, 20, 30, 40, 50);
+        List<Integer> list = Arrays.asList(10, 20, 30, 40, 50, 60);
         int left = 0;
         int right = list.size()-1;
         while(left<right){
